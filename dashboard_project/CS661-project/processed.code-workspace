@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "processed",
+			"path": "../../../Downloads/processed/processed"
+		},
+		{
+			"name": "CS661-project",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
